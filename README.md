@@ -28,7 +28,7 @@
 <hr>
 
 <h2>📬 Connect with Me</h2>
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/...">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
   </a>
