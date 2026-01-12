@@ -17,9 +17,11 @@ I'm a student at a High School of Technology in the Czech Republic 🇨🇿
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
 </p>
 
-<div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=marekpolak3&label=Profile%20views&color=0e75b6&style=flat)
-</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marekpolak3&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 
 ## 📬 Connect with Me
 
