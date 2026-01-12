@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Welcome to My Profile
 
-<!--
-**marekpolak3/marekpolak3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Marek!  
+I'm a student at a High School of Technology in the Czech Republic 🇨🇿
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🤖 Tech & AI enthusiast  
+- 🏋️ Fitness
+- 🌍 Languages: Czech, English, German
+
+---
+
+## 🛠 Technologies I Work With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
+</p>
+![Visitors](https://komarev.com/ghpvc/?username=marekpolak3&color=blue)
