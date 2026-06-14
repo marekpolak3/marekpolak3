@@ -9,7 +9,7 @@
 
 <h2>💻 About Me</h2>
 <ul>
-  <li>🤖 Tech & AI enthusiast</li>
+  <li>🤖 Tech enthusiast</li>
   <li>🏋️ Fitness</li>
   <li>🌍 Languages: Czech, English, German</li>
 </ul>
